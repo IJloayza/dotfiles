@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = git cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setuP.SH
